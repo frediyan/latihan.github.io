@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.wrapper {
+  height: 500px;
+  padding-bottom: 80px;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.heading {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: #5f5d60;
+}
+
+.heading h2 {
+  font-weight: normal;
+}
+
+.fasilitas {
+  float: left;
+  width: 25%;
+}
+
+.fasilitas-icon img {
+  max-width: 150px;
+  max-height: 100px;
+}
+
+.txt-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 15px;
+  color: #b3aeb5;
+}
+.headings {
+  padding-top: 160px;
+  padding-bottom: 30px;
+  color: #5f5d60;
+}
+
+.headings h2 {
+   font-weight: normal;
+   padding-top: 60px;
+
+}
+.hub {
+  float: left;
+  padding-left: 290px;
+}
+.hub-icon img {
+  max-width: 30px;
+  max-height: 20px;
+}
