@@ -63,7 +63,7 @@ body {
 }
 .hub {
   float: left;
-  padding-left: 290px;
+  width: 50%;
 }
 .hub-icon img {
   max-width: 30px;
