@@ -1,0 +1,29 @@
+/*untuk tablet*/
+@media (max-width: 1000px){
+.heading h2 {
+    font-size: 20px;
+  }
+  
+ .fasilitas {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+}
+/*untuk smartphone*/
+@media (max-width: 670px){
+.wrapper {
+    width: 100%;
+  }
+.container {
+    width: 100%;
+  }
+.fasilitas {
+    width: 100%;
+  }
+.fasilitas-icon {
+    width: 100%;
+  }
+.hub-icon {
+    width: 100%;
+  }
+}
